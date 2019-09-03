@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Baudline
+Comment=Signal analysis tool
+Exec=/home/ubuntu/Downloads/baudline_1.08_linux_x86_64/baudline
+Icon=/home/ubuntu/Downloads/baudline_1.08_linux_x86_64/icons/mascot.gif
+Terminal=false
