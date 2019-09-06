@@ -383,7 +383,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/ryan/dev/fex1/fesdr-examples-vol1/ch6/am_broadcast_02_c900k_s400k.iq</value>
+      <value>/home/ryan/dev/sdr_sandbox/sdr_fexv1/data/am_broadcast_02_c900k_s400k.iq</value>
     </param>
     <param>
       <key>_coordinate</key>
